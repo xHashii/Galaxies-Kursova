@@ -1,0 +1,26 @@
+C:\Users\MURICA\source\repos\Galaxies\Galaxies\bin\Debug\netcoreapp3.1\Galaxies.exe
+C:\Users\MURICA\source\repos\Galaxies\Galaxies\bin\Debug\netcoreapp3.1\Galaxies.deps.json
+C:\Users\MURICA\source\repos\Galaxies\Galaxies\bin\Debug\netcoreapp3.1\Galaxies.runtimeconfig.json
+C:\Users\MURICA\source\repos\Galaxies\Galaxies\bin\Debug\netcoreapp3.1\Galaxies.runtimeconfig.dev.json
+C:\Users\MURICA\source\repos\Galaxies\Galaxies\bin\Debug\netcoreapp3.1\Galaxies.dll
+C:\Users\MURICA\source\repos\Galaxies\Galaxies\bin\Debug\netcoreapp3.1\Galaxies.pdb
+C:\Users\MURICA\source\repos\Galaxies\Galaxies\obj\Debug\netcoreapp3.1\Galaxies.csprojAssemblyReference.cache
+C:\Users\MURICA\source\repos\Galaxies\Galaxies\obj\Debug\netcoreapp3.1\Galaxies.AssemblyInfoInputs.cache
+C:\Users\MURICA\source\repos\Galaxies\Galaxies\obj\Debug\netcoreapp3.1\Galaxies.AssemblyInfo.cs
+C:\Users\MURICA\source\repos\Galaxies\Galaxies\obj\Debug\netcoreapp3.1\Galaxies.csproj.CoreCompileInputs.cache
+C:\Users\MURICA\source\repos\Galaxies\Galaxies\obj\Debug\netcoreapp3.1\Galaxies.dll
+C:\Users\MURICA\source\repos\Galaxies\Galaxies\obj\Debug\netcoreapp3.1\Galaxies.pdb
+C:\Users\MURICA\source\repos\Galaxies\Galaxies\obj\Debug\netcoreapp3.1\Galaxies.genruntimeconfig.cache
+C:\Users\wowst\Desktop\Galaxies KR\Galaxies\bin\Debug\netcoreapp3.1\Galaxies.exe
+C:\Users\wowst\Desktop\Galaxies KR\Galaxies\bin\Debug\netcoreapp3.1\Galaxies.deps.json
+C:\Users\wowst\Desktop\Galaxies KR\Galaxies\bin\Debug\netcoreapp3.1\Galaxies.runtimeconfig.json
+C:\Users\wowst\Desktop\Galaxies KR\Galaxies\bin\Debug\netcoreapp3.1\Galaxies.runtimeconfig.dev.json
+C:\Users\wowst\Desktop\Galaxies KR\Galaxies\bin\Debug\netcoreapp3.1\Galaxies.dll
+C:\Users\wowst\Desktop\Galaxies KR\Galaxies\bin\Debug\netcoreapp3.1\Galaxies.pdb
+C:\Users\wowst\Desktop\Galaxies KR\Galaxies\obj\Debug\netcoreapp3.1\Galaxies.csprojAssemblyReference.cache
+C:\Users\wowst\Desktop\Galaxies KR\Galaxies\obj\Debug\netcoreapp3.1\Galaxies.AssemblyInfoInputs.cache
+C:\Users\wowst\Desktop\Galaxies KR\Galaxies\obj\Debug\netcoreapp3.1\Galaxies.AssemblyInfo.cs
+C:\Users\wowst\Desktop\Galaxies KR\Galaxies\obj\Debug\netcoreapp3.1\Galaxies.csproj.CoreCompileInputs.cache
+C:\Users\wowst\Desktop\Galaxies KR\Galaxies\obj\Debug\netcoreapp3.1\Galaxies.dll
+C:\Users\wowst\Desktop\Galaxies KR\Galaxies\obj\Debug\netcoreapp3.1\Galaxies.pdb
+C:\Users\wowst\Desktop\Galaxies KR\Galaxies\obj\Debug\netcoreapp3.1\Galaxies.genruntimeconfig.cache
